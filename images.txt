@@ -1,2 +1,4 @@
 # hyperfer
-hyperf/hyperf
+hyperf/hyperf:latest
+# nginx
+nginx
