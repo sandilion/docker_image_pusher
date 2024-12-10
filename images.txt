@@ -5,3 +5,4 @@ nginx
 # hyoerfer:8.3
 hyperf/hyperf:8.3-alpine-vedge-swoole-slim-v5.1
 hyperf/hyperf:8.1-alpine-v3.18-swoole
+hyperf/hyperf:8.3-alpine-vedge-swoole-slim
